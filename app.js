@@ -1,6 +1,6 @@
 
 let sorteados = [];
-const numeroLimite = 4;
+const numeroLimite = 10;
 let numeroSecreto = gerarUmNumeroAleatorio();
 let tentativas = 0;
 
